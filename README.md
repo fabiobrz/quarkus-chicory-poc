@@ -1,7 +1,7 @@
 # ⚠️ ARCHIVED: quarkus-chicory-poc
 This repository has been archived and is no longer maintained.
 
-**Please refer to [quarkus-chicory](https://github.com/quarkiverse/quarkus-chicory)** for the latest version.
+**Please refer to https://github.com/quarkiverse/quarkus-chicory** for the latest version.
 
 # Quarkus Chicory
 
