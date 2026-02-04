@@ -1,3 +1,8 @@
+# ⚠️ ARCHIVED: quarkus-chicory-poc
+This repository has been archived and is no longer maintained.
+
+**Please refer to [quarkus-chicory](https://github.com/quarkiverse/quarkus-chicory)** for the latest version.
+
 # Quarkus Chicory
 
 [![Version](https://img.shields.io/maven-central/v/io.quarkiverse/quarkus-chicory?logo=apache-maven&style=flat-square)](https://central.sonatype.com/artifact/io.quarkiverse/quarkus-chicory-parent)
